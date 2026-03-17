@@ -20,4 +20,4 @@
 🧉 **Curiosidades do Lab** Como um bom grupo de pesquisa focado no Rio Grande do Sul, nosso combustível oficial para compilar código em C++ e treinar redes neurais de madrugada é muito café e, tradicionalmente, uma roda de **chimarrão**!
 
 ---
-*📍 Centro de Tecnologia - UFSM | Santa Maria, RS, Brasil* 📫 **Contato:** [Insira o email ou site aqui]
+*📍 Centro de Tecnologia - UFSM | Santa Maria, RS, Brasil* 📫 **Contato:** [Em breve]
